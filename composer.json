@@ -1,14 +1,9 @@
 {
-    "name": "cantie/app-store-connect-api",
+    "name": "luanmm/app-store-connect-api",
     "description": "A PHP client library for accessing App Store Connect APIs",
     "keywords": ["apple", "appstore", "appstore-api", "php"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Long Pham",
-            "email": "cantie912@gmail.com"
-        }
-    ],
+    "version": "1.0.35",
     "minimum-stability": "stable",
     "require": {
         "php": "^7.4|^8.0",
