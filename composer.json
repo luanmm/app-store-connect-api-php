@@ -4,7 +4,6 @@
     "keywords": ["apple", "appstore", "appstore-api", "php"],
     "license": "MIT",
     "version": "1.0.35",
-    "minimum-stability": "stable",
     "require": {
         "php": "^7.4|^8.0",
         "google/auth": "^1.28",
